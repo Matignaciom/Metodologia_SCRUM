@@ -1,6 +1,6 @@
-# Guía de Scrum
+# Guía de Scrum (Repo de aprendizaje)
 
-## Introducción a Scrum
+## Introducción
 
 Scrum es un marco de trabajo ágil utilizado para la gestión de proyectos, especialmente en el desarrollo de software. Se centra en la colaboración, la adaptación y la entrega continua de productos de alta calidad. Scrum se basa en principios de transparencia, inspección y adaptación.
 
