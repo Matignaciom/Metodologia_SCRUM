@@ -1,4 +1,4 @@
-# Guía de Scrum (Repo de aprendizaje)
+# Guía de Scrum
 
 ## Introducción
 
